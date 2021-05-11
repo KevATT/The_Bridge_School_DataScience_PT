@@ -19,7 +19,8 @@ El programa de Data Science más completo. Aprenderás a capturar,  procesar, al
 - [ ] **3. Machine Learning Engineering**: Aprendizaje supervisado; Aprendizaje no supervisado; Deep Learning; Series temporales
 - [ ] **4. Data Science y Negocio**: Productizatión de ciencia de datos; Storytelling y productos de datos
 - [ ] **5  Data analysis 25**: test edicion
-**Aprender y dedicar tiempo a la practica**
+- [ ] **Aprender y dedicar tiempo a la practica**
+
 
 
 1. Modificado por [MarcusRB](https://github.com/marcusRB)
